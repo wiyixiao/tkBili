@@ -1,0 +1,11 @@
+wxPython==4.0.4
+numpy==1.19.5
+requests-html==0.10.0
+scikit-build==0.11.1
+cmake==3.18.4
+opencv-python==4.5.1.48
+Cython==0.29.15
+ffpyplayer==4.3.2
+moviepy==1.0.3
+PyAudio==0.2.11
+python-vlc==3.0.11115
